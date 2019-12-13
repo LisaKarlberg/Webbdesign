@@ -1,0 +1,35 @@
+body {
+    background-color: whitesmoke;
+}
+
+nav {
+    margin: 1em 0,5em;
+    padding: 1em;
+    background-color: lightslategrey;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    font-size: 2em;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 12;
+    font-weight: bold;
+}
+
+p { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+
+}
+
+.container {
+    padding: 1em;
+    margin: 2em 1em;
+    background-color: lightcoral;
+
+}
+
